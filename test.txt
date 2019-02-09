@@ -1,2 +1,7 @@
 dhkjhj
+
 Промяна с Git Bash
+
+Промяна с тортоизе
+
+ 04779dcbbdee8838d7c737f9e067bf5e1f4e1dcc
